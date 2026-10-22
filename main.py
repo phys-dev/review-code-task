@@ -68,3 +68,5 @@ class CashCalculator(Calculator):
 
     def get_week_stats(self):
         super().get_week_stats()
+
+# Review by [Никита Пешков]
